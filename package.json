@@ -1,0 +1,16 @@
+{
+  "name": "boiler_plate_node_bootstrap_pug",
+  "version": "1.0.0",
+  "description": "Basic boilerplate for Node.js, Bootstrap and Pug",
+  "main": "app.js",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
